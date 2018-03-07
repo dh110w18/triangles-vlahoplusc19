@@ -22,3 +22,13 @@ div#third {
     color: green;
     background-color: black;
 }
+
+div#fourth {
+    color: black;
+    background-color: gray;
+}
+
+div#fifth {
+    color: darkblue;
+    background-color: bisque;
+}
